@@ -2,7 +2,7 @@
 # This python scripts gets the top post of the day in r/TodayILearned #
 # I created this script to prototype for one of my android apps that  #
 # teaches people something new every day.                             #
-#   By Bill Bai                                                       #
+#      By Bill Bai                                                    #
 #######################################################################
 
 from bs4 import BeautifulSoup as bs
